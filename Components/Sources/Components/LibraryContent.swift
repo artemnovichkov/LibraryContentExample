@@ -6,5 +6,6 @@ struct LibraryContent: @preconcurrency LibraryContentProvider {
     @MainActor @LibraryContentBuilder
     var views: [LibraryItem] {
         LibraryItem(TitleView(), category: .control)
+        LibraryItem(SubtitleView(), category: .control)
     }
 }

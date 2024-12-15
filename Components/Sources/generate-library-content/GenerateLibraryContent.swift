@@ -14,7 +14,7 @@ struct GenerateLibraryContent: ParsableCommand {
     @Option(help: "Target directory URL")
     var input: String
 
-    @Option(help: "Directory containing the swift files")
+    @Option(help: "The URL for generated file")
     var output: String
 
     func run() throws {
