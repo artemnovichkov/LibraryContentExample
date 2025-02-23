@@ -1,6 +1,6 @@
 # LibraryContentExample
 
-An example project for [Xcode Library customization with SPM plugin](xcode-library-customization-with-spm-plugin) blog post.
+An example project for [Xcode Library customization with SPM plugin](https://www.artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin) blog post.
 
 <p align="center"/>
   <img src=".github/cover.png"/>
